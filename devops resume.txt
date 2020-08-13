@@ -7,6 +7,5 @@
 • Created Multifactor Authentication for AWS Users in the organizations.
 • Design and implemented Security using VPC, IAM, Security Groups.
 • Working closely with dev team to manage CI environment using Jenkins, Code Commit.
-
 • Creating a test environment for execution of tests by creating clustering environment using ECS(EC2 Container Services)
 • Sound knowledge on Ansible custom roles to provision infrastructure and to configure various application
