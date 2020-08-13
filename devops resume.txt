@@ -1,0 +1,12 @@
+• Creating repositories, new users for Git, creation of new version-controlled branches, troubleshooting version control errors.
+• Providing solutions to developers for checkouts, merge requests and other Git related issues.
+• Experience in setting up Jenkins from scratch, creating jobs using Jenkins. Manage installations, Checking out errors in source code,deploy configuration, administration and backup.
+• Support the code builds by integrating with continuous integration tool (Jenkins)
+• Managing Continuous Integration and Continuous Delivery (CI/CD) using Jenkins.
+• Creating architecture on AWS, document the design and provisioning the infrastructure on AWS.
+• Created Multifactor Authentication for AWS Users in the organizations.
+• Design and implemented Security using VPC, IAM, Security Groups.
+• Working closely with dev team to manage CI environment using Jenkins, Code Commit.
+
+• Creating a test environment for execution of tests by creating clustering environment using ECS(EC2 Container Services)
+• Sound knowledge on Ansible custom roles to provision infrastructure and to configure various application

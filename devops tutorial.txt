@@ -1,0 +1,5 @@
+continous development- GIT
+continous integration- Jenkins
+contious deployment -docker swam for virtualizatiion and containerization,   configuration management puppet and ansible
+continous testing-selenium
+continous monitoring-Nagios 
